@@ -11,10 +11,6 @@ Développer une application de gestion de stock permettant de gérer les produit
 -  Relations : Produit ↔ Catégorie (Many-to-One)
 
 ### Entités principales :
-```java
-- Produit (id, nom, description, prix, quantité, catégorie)
-- Catégorie (id, nom, description)
-- MouvementStock (id, produit, date, type, quantité)
 
 ![WhatsApp Image 2026-02-26 at 20 21 07 (1)](https://github.com/user-attachments/assets/decc0218-ea88-47bc-b90d-21ecd2cdfc5b)
 ![WhatsApp Image 2026-02-26 at 20 21 07 (2)](https://github.com/user-attachments/assets/b0546ae2-dbae-4ea1-8f41-69e61e6273ce)
