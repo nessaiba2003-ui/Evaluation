@@ -10,8 +10,6 @@ Développer une application de gestion de stock permettant de gérer les produit
 -  Historique des entrées/sorties
 -  Relations : Produit ↔ Catégorie (Many-to-One)
 
-### Entités principales :
-
 ![WhatsApp Image 2026-02-26 at 20 21 07 (1)](https://github.com/user-attachments/assets/decc0218-ea88-47bc-b90d-21ecd2cdfc5b)
 ![WhatsApp Image 2026-02-26 at 20 21 07 (2)](https://github.com/user-attachments/assets/b0546ae2-dbae-4ea1-8f41-69e61e6273ce)
 ![WhatsApp Image 2026-02-26 at 20 21 07 (2)](https://github.com/user-attachments/assets/fc520755-b0fd-47f2-80e3-c844d5ac5859)
@@ -90,12 +88,6 @@ Création d une application de gestion de projets avec suivi des tâches et des 
  Suivi de l'avancement des projets
  Gestion des compétences requises
  Relations : Projet ↔ Employé (Many-to-Many)
-### Entités principales :
-Projet (id, nom, description, dateDébut, dateFin, budget)
-- Employé (id, nom, prénom, poste, salaire)
-- Tâche (id, description, projet, assignéÀ, statut, priorité)
-- Compétence (id, libellé, niveau)
-
 
 ![1](https://github.com/user-attachments/assets/3771c250-c31f-4107-8b66-fb9f82dc6504)
 
