@@ -1,14 +1,14 @@
 Exercice 1 - Gestion de Stock
 
-### 📦 Contexte
+### Contexte
 Développer une application de gestion de stock permettant de gérer les produits, les catégories et les mouvements de stock.
 
 ### Fonctionnalités attendues :
-- ✅ CRUD complet sur les produits
-- ✅ Gestion des catégories de produits
-- ✅ Suivi des quantités en stock
-- ✅ Historique des entrées/sorties
-- ✅ Relations : Produit ↔ Catégorie (Many-to-One)
+-  CRUD complet sur les produits
+-  Gestion des catégories de produits
+-  Suivi des quantités en stock
+-  Historique des entrées/sorties
+-  Relations : Produit ↔ Catégorie (Many-to-One)
 
 ### Entités principales :
 ```java
@@ -20,7 +20,7 @@ Développer une application de gestion de stock permettant de gérer les produit
 
 
 
-Exercice 2 - Gestion de Projets
+### Exercice 2 - Gestion de Projets
 
 Création d une application de gestion de projets avec suivi des tâches et des ressources humaines.
 ### Fonctionnalités attendues :
