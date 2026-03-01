@@ -1,4 +1,4 @@
-Exercice 1 - Gestion de Stock
+### Exercice 1 - Gestion de Stock
 
 ### Contexte
 Développer une application de gestion de stock permettant de gérer les produits, les catégories et les mouvements de stock.
@@ -134,8 +134,8 @@ Création d une application de gestion de projets avec suivi des tâches et des 
 
 
 
-Exercice 3 - Gestion de l'État Civil
- Contexte
+### Exercice 3 - Gestion de l'État Civil
+### Contexte
 Développer une application permettant de gérer les citoyens et leurs relations matrimoniales dans une province 
 
 ### Fonctionnalités attendues :
@@ -144,9 +144,70 @@ Développer une application permettant de gérer les citoyens et leurs relations
  Gestion des relations familiales
  Historique de l'état civil
  Relations complexes : Personne ↔ Personne (Mariage)
-### Entités principales :
-Personne (id, nom, prénom, dateNaissance, lieuNaissance, téléphone, adresse)
-- Mariage (id, époux, épouse, dateMariage, lieuMariage, statut)
-- Divorce (id, mariage, dateDivorce, motif)
-- Province (id, nom, code)
-- Ville (id, nom, province)
+
+![WhatsApp Image 2026-03-01 at 17 57 51](https://github.com/user-attachments/assets/a9d7ec65-3d7b-4569-8f2a-2366ef5547c6)
+
+![WhatsApp Image 2026-03-01 at 17 57 52 (1)](https://github.com/user-attachments/assets/65cc0157-6d8b-48af-aaa9-b04d0009f08b)
+
+![WhatsApp Image 2026-03-01 at 17 57 52 (1)](https://github.com/user-attachments/assets/c86f0cdf-3139-4312-9aa2-0bd3ce2b124d)
+
+![WhatsApp Image 2026-03-01 at 17 57 53 (1)](https://github.com/user-attachments/assets/b907157c-4312-465a-bf8d-6b026c1aca80)
+
+![WhatsApp Image 2026-03-01 at 17 57 53 (1)](https://github.com/user-attachments/assets/bff5e0dc-1be6-479f-a116-574cf3b31dc1)
+
+![WhatsApp Image 2026-03-01 at 17 57 54](https://github.com/user-attachments/assets/4cf88ae4-a1cf-4f49-9599-7c3047c022c5)
+
+![WhatsApp Image 2026-03-01 at 17 57 56](https://github.com/user-attachments/assets/b15ecc91-fe7e-4709-901d-345849ef16e5)
+
+![WhatsApp Image 2026-03-01 at 17 57 57 (1)](https://github.com/user-attachments/assets/e3d2a933-5c70-42bc-85ea-5470b313f675)
+
+
+![WhatsApp Image 2026-03-01 at 17 57 57](https://github.com/user-attachments/assets/7490dd7e-80d5-49ff-99dc-73d4378782e3)
+
+![WhatsApp Image 2026-03-01 at 17 57 58 (1)](https://github.com/user-attachments/assets/9eeb4015-e857-487e-8b9b-e3c8283ff2ac)
+
+![WhatsApp Image 2026-03-01 at 17 57 58 (2)](https://github.com/user-attachments/assets/9c94a9a1-6010-4845-adef-4311efd42f98)
+
+![WhatsApp Image 2026-03-01 at 17 57 58 (3)](https://github.com/user-attachments/assets/ddca987f-20d7-4d3a-a371-304c31d28a05)
+
+![WhatsApp Image 2026-03-01 at 17 57 58 (3)](https://github.com/user-attachments/assets/a69014e9-2ee3-41ce-bf1b-7e2325df5e0e)
+
+v![WhatsApp Image 2026-03-01 at 17 57 58 (3)](https://github.com/user-attachments/assets/e14daaea-93b2-444b-9c96-4ea941869990)
+
+![WhatsApp Image 2026-03-01 at 17 57 59](https://github.com/user-attachments/assets/d6b1935e-519b-4d26-9e93-3bc1b1a1d534)
+
+![WhatsApp Image 2026-03-01 at 17 57 59](https://github.com/user-attachments/assets/3e2568cf-b183-4f1d-983b-de754c041bcd)
+
+![WhatsApp Image 2026-03-01 at 17 57 59](https://github.com/user-attachments/assets/27f1b0c7-964f-47f4-b348-7c24fa554a1c)
+
+![WhatsApp Image 2026-03-01 at 17 57 59](https://github.com/user-attachments/assets/66e53737-dc71-4979-b7d4-f836f691f839)
+
+![WhatsApp Image 2026-03-01 at 17 58 01](https://github.com/user-attachments/assets/1eb7a47f-3317-4ce0-a05b-c0a7eb49c001)
+
+![WhatsApp Image 2026-03-01 at 17 59 47](https://github.com/user-attachments/assets/9ddf1e2e-77a7-428e-bece-4e541c8afd97)
+
+
+![WhatsApp Image 2026-03-01 at 17 59 47](https://github.com/user-attachments/assets/d03ec4c3-0e0e-4704-927b-68ca19fa2718)
+
+![WhatsApp Image 2026-03-01 at 17 59 52 (1)](https://github.com/user-attachments/assets/a6c03bbb-94f0-402f-a246-311f1b856ebc)
+
+![WhatsApp Image 2026-03-01 at 17 59 52 (1)](https://github.com/user-attachments/assets/3f082bfa-da02-4459-af43-96fbe6f8bd09)
+
+![WhatsApp Image 2026-03-01 at 17 59 52 (3)](https://github.com/user-attachments/assets/94e1a0c1-c7b2-4ec6-b5f0-00d62515f47f)
+
+
+![WhatsApp Image 2026-03-01 at 17 59 52](https://github.com/user-attachments/assets/e6007cbb-7510-4987-8d89-5e05870179ab)
+
+![WhatsApp Image 2026-03-01 at 17 59 52](https://github.com/user-attachments/assets/8f194a69-e421-4878-81a4-55119f76ae44)
+
+![WhatsApp Image 2026-03-01 at 18 02 38 (2)](https://github.com/user-attachments/assets/fc09d0e0-89f0-4949-83b9-5deca8eae9e8)
+
+![WhatsApp Image 2026-03-01 at 18 02 38](https://github.com/user-attachments/assets/02fb6d48-0138-414f-b94a-b8476fc40701)
+
+![WhatsApp Image 2026-03-01 at 18 02 39](https://github.com/user-attachments/assets/e8f6d28a-3e28-4328-bd43-84256014229d)
+
+![WhatsApp Image 2026-03-01 at 18 02 42](https://github.com/user-attachments/assets/87bf5d2e-f11a-4dc3-a131-5ff57c8baf6f)
+
+![WhatsApp Image 2026-03-01 at 18 02 42](https://github.com/user-attachments/assets/1f6f5df7-5105-45a7-9739-6ea31f4a5351)
+
+![WhatsApp Image 2026-03-01 at 18 02 42](https://github.com/user-attachments/assets/b16a6a40-c9cf-4d2e-8d0d-0eeb56fc52c7)
